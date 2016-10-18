@@ -4,44 +4,42 @@
         <TSLSequenceNumber>32</TSLSequenceNumber>
         <TSLType>http://uri.etsi.org/TrstSvc/TrustedList/TSLType/EUgeneric</TSLType>
         <SchemeOperatorName>
-            <Name xml:lang="en">Estonian Technical Regulatory Authority</Name>
-            <Name xml:lang="et">Tehnilise Järelevalve Amet</Name>
-            <Name xml:lang="en">Estonian Technical Surveillance Authority</Name>
+            <Name xml:lang="es">CENDITEL</Name>
+            <Name xml:lang="en">CENDITEL</Name>
         </SchemeOperatorName>
         <SchemeOperatorAddress>
             <PostalAddresses>
                 <PostalAddress xml:lang="en">
-                    <StreetAddress>23A Sõle St</StreetAddress>
-                    <Locality>Tallinn</Locality>
-                    <PostalCode>10614</PostalCode>
-                    <CountryName>EE</CountryName>
+                    <StreetAddress>Avenida Alberto Carnevali, vía La Hechicera, Edificio CENDITEL</StreetAddress>
+                    <Locality>Mérida-Venezuela</Locality>
+                    <PostalCode>5101A<q/PostalCode>
+                    <CountryName>VE</CountryName>
                 </PostalAddress>
             </PostalAddresses>
             <ElectronicAddress>
-                <URI xml:lang="en">mailto:info@tja.ee</URI>
-                <URI xml:lang="en">http://sr.riik.ee/en.html</URI>
+                <URI xml:lang="es">talentohumano@cenditel.gob.ve</URI>
+                <URI xml:lang="es">http://www.cenditel.gob.ve/</URI>
             </ElectronicAddress>
         </SchemeOperatorAddress>
         <SchemeName>
-            <Name xml:lang="en">EE:Trusted list including information related to the qualified trust service providers which are supervised by the issuing Member State, together with information related to the qualified trust services provided by them, in accordance with the relevant provisions laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.</Name>
+            <Name xml:lang="es">El Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (CENDITEL) surge como una iniciativa para impulsar los procesos necesarios que permitan transitar el camino hacia el verdadero rol que deben cumplir la ciencia, la tecnología y la innovación para alcanzar el desarrollo económico, social y político de la nación.</Name>
         </SchemeName>
         <SchemeInformationURI>
-            <URI xml:lang="en">https://sr.riik.ee/en/tsl/estonia.html</URI>
-            <URI xml:lang="en">http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&amp;from=EN</URI>
-            <URI xml:lang="et">http://sr.riik.ee/et/tsl/eesti.html</URI>
-            <URI xml:lang="et">http://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:32014R0910&amp;from=EN</URI>
+            <URI xml:lang="es">https://seguridad.cenditel.gob.ve/firmaxml/wiki</URI>
+            <URI xml:lang="es">http://www.cenditel.gob.ve/</URI>
         </SchemeInformationURI>
         <StatusDeterminationApproach>http://uri.etsi.org/TrstSvc/TrustedList/StatusDetn/EUappropriate</StatusDeterminationApproach>
         <SchemeTypeCommunityRules>
-            <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EUcommon</URI>
-            <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/schemerules/EE</URI>
+            <URI xml:lang="es">https://seguridad.cenditel.gob.ve/firmaxml/wiki</URI>
+            <URI xml:lang="en">http://www.cenditel.gob.ve/</URI>
         </SchemeTypeCommunityRules>
-        <SchemeTerritory>EE</SchemeTerritory>
+        <SchemeTerritory>VE</SchemeTerritory>
         <PolicyOrLegalNotice>
             <TSLLegalNotice xml:lang="en">The applicable legal framework for the present trusted list is Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.</TSLLegalNotice>
             <TSLLegalNotice xml:lang="et">Käesoleva usaldusnimekirja suhtes kohaldatav õigusraamistik on Euroopa Parlamendi ja nõukogu 23. juuli 2014. aasta määrus (EL) nr 910/2014 e-identimise ja e-tehingute jaoks vajalike usaldusteenuste kohta siseturul ja millega tunnistatakse kehtetuks direktiiv 1999/93/EÜ.</TSLLegalNotice>
         </PolicyOrLegalNotice>
         <HistoricalInformationPeriod>65535</HistoricalInformationPeriod>
+	<!-- falta agregar el certificado firmado de la lista-->
         <PointersToOtherTSL>
             <OtherTSLPointer>
                 <ServiceDigitalIdentities>
@@ -90,12 +88,12 @@
                 </AdditionalInformation>
             </OtherTSLPointer>
         </PointersToOtherTSL>
-        <ListIssueDateTime>2016-08-18T11:00:00Z</ListIssueDateTime>
+        <ListIssueDateTime>2016-10-18T10:00:00Z</ListIssueDateTime>
         <NextUpdate>
-            <dateTime>2017-02-17T12:00:00Z</dateTime>
+            <dateTime>2017-04-17T11:00:00Z</dateTime>
         </NextUpdate>
         <DistributionPoints>
-            <URI>https://sr.riik.ee/tsl/estonian-tsl.xml</URI>
+            <URI>https://seguridad.cenditel.gob.ve/firmaxml/browser/tibisayfirmaxml</URI>
         </DistributionPoints>
     </SchemeInformation>
     <TrustServiceProviderList>
