@@ -100,33 +100,27 @@
         <TrustServiceProvider>
             <TSPInformation>
                 <TSPName>
-                    <Name xml:lang="en">AS Sertifitseerimiskeskus</Name>
+                    <Name xml:lang="es">SUSCERTE</Name>
                 </TSPName>
                 <TSPTradeName>
-                    <Name xml:lang="en">VATEE-100687640</Name>
-                    <Name xml:lang="en">AS Sertifitseerimiskeskus</Name>
-                    <Name xml:lang="en">ESTEID</Name>
-                    <Name xml:lang="en">SK</Name>
+                    <Name xml:lang="es">SUSCERTE</Name>
                 </TSPTradeName>
                 <TSPAddress>
                     <PostalAddresses>
-                        <PostalAddress xml:lang="en">
-                            <StreetAddress>Pärnu mnt 141</StreetAddress>
-                            <Locality>Tallinn</Locality>
-                            <PostalCode>11314</PostalCode>
-                            <CountryName>EE</CountryName>
+                        <PostalAddress xml:lang="es">
+                            <StreetAddress>Av. Andrés Bello. Edificio BFC. Piso 13. VenCERT. Caracas. Distrito Capital. Venezuela</StreetAddress>
+                            <Locality>Distrito Capital. Venezuela</Locality>
+                            <PostalCode>1010</PostalCode>
+                            <CountryName>VE</CountryName>
                         </PostalAddress>
                     </PostalAddresses>
                     <ElectronicAddress>
-                        <URI xml:lang="en">mailto:info@sk.ee</URI>
-                        <URI xml:lang="en">http://www.sk.ee/en</URI>
+                        <URI xml:lang="es">atencionalciudadano@suscerte.gob.ve</URI>
+                        <URI xml:lang="es">http://www.suscerte.gob.ve/</URI>
                     </ElectronicAddress>
                 </TSPAddress>
                 <TSPInformationURI>
-                    <URI xml:lang="en">http://www.sk.ee/en/repository/CPS</URI>
-                    <URI xml:lang="en">http://sr.riik.ee/en/registry/legal-framework.html</URI>
-                    <URI xml:lang="et">http://www.sk.ee/repositoorium/CPS</URI>
-                    <URI xml:lang="et">http://sr.riik.ee/et/register/oigusaktid.html</URI>
+                    <URI xml:lang="es">http://acraiz.suscerte.gob.ve/</URI>
                 </TSPInformationURI>
             </TSPInformation>
             <TSPServices>
