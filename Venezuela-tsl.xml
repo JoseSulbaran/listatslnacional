@@ -705,20 +705,20 @@
                     <ServiceInformation>
                         <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/Certstatus/OCSP/QC</ServiceTypeIdentifier>
                         <ServiceName>
-                            <Name xml:lang="en">EID-SK 2007 OCSP RESPONDER 2010</Name>
+                            <Name xml:lang="es">Solicitud-Ocsp</Name>
                         </ServiceName>
                         <ServiceDigitalIdentity>
                             <DigitalId>
-<X509Certificate>MIIEMTCCAxmgAwIBAgIESxUA8TANBgkqhkiG9w0BAQUFADBqMQswCQYDVQQGEwJFRTEiMCAGA1UEChMZQVMgU2VydGlmaXRzZWVyaW1pc2tlc2t1czEhMB8GA1UECxMYU2VydGlmaXRzZWVyaW1pc3RlZW51c2VkMRQwEgYDVQQDEwtFSUQtU0sgMjAwNzAeFw0wOTEyMDExMTQxMzBaFw0xNjA4MjYxMzIzMDBaMIGEMQswCQYDVQQGEwJFRTEiMCAGA1UEChMZQVMgU2VydGlmaXRzZWVyaW1pc2tlc2t1czENMAsGA1UECxMET0NTUDEoMCYGA1UEAxMfRUlELVNLIDIwMDcgT0NTUCBSRVNQT05ERVIgMjAxMDEYMBYGCSqGSIb3DQEJARYJcGtpQHNrLmVlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAso91KG7EHsjAxMairaCKUHSOyXp5rzxRq5Y9LfDyplVbHfh34fbB7M5G+wnu5CZgJsfJ7DF3MjpA7nlAHd5alAynIUl/CNXejf+XnJ/vyF1eQvAoWvnjBPVIS0mbaABgF54ybAGE2E7UKeZVOAj7RoQVAMHQcYVjxZW5OWz3yJX9KdaDZPOzqlGtRYKUASHiwAFwExKcqfaHOj0qO8+KdSvEBaVlpe5kunEVEvn+kgNKBtzdH2XFMjVFa4im31KW+iq7mNQwUiZDSe9ho6T6UrWu7g8yTQowx3SYLTqVxR0YVgcYNCx7nn1AVGNxK3oeonrHHqcBp6qSAIYXeQNfiQIDAQABo4HDMIHAMBMGA1UdJQQMMAoGCCsGAQUFBwMJMGkGA1UdIARiMGAwXgYKKwYBBAHOHwQBAjBQMCUGCCsGAQUFBwICMBkaF1NLIHRpbWUgc3RhbXBpbmcgcG9saWN5MCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LnNrLmVlL2FqYXRlbXBlbC8wHwYDVR0jBBgwFoAUHAf0nL+kJWyztJ4iHx+USBtYeo0wHQYDVR0OBBYEFPBOCDPMR+kfp7Ozk5U68E68/AseMA0GCSqGSIb3DQEBBQUAA4IBAQCRaqmxZgJiJ+MLamb/P4vyS6azr6/tj8dZCK++V/3GnecRm7CiZpR47EnW0NyDzCecGyTWSkVlnZPnNvXRx700Nn0M4Inia5pNhSuVmWS3p5eV70vCbsfRD26+6CZhkHWnL/J2xpqeacULtgPPz9gBTyC2ybQr17dv7W5Qc+3UFywmE5N8ozQuEJroGz7P+yCbBEssWcmIUNDNdO0xs6aQZ1f+DV4FUB0lajuILYFz4xM+81akYFVqaGPCVwbQgFSWRKmamj8FxfWjA4DCrgkHVR1rA3tZyirfCBK9cfWpTCLr8zq9Ur0jTAeGrHRzHlUrB9mYZwyr0kNOyl9293xh</X509Certificate>
+<X509Certificate>MIIGSDCCBDCgAwIBAgIBBTANBgkqhkiG9w0BAQUFADCBpzELMAkGA1UEBhMCVkUxDzANBgNVBAgTBk1lcmlkYTEPMA0GA1UEBxMGTWVyaWRhMREwDwYDVQQKEwhDRU5ESVRFTDETMBEGA1UECxMKRGVzYXJyb2xsbzEcMBoGA1UEAxMTYXV0b3JpZGFkLWNhLWZpcm1hcjEwMC4GCSqGSIb3DQEJARYhYXV0b3JpZGFkY2FmaXJtYXJAY2VuZGl0ZWwuZ29iLnZlMB4XDTE2MDkyMjIyMTMwMFoXDTE2MTAyMjIyMTMwMFowgZ4xCzAJBgNVBAYTAlZlMQ8wDQYDVQQIEwZNZXJpZGExDzANBgNVBAcTBk1lcmlkYTERMA8GA1UEChMIQ0VORElURUwxEzARBgNVBAsTCkRlc2Fycm9sbG8xIDAeBgNVBAMTF3NvbGljaXR1ZC1zZXJ2aWRvci1vY3NwMSMwIQYJKoZIhvcNAQkBFhRvY3NwQGNlbmRpdGVsLmdvYi52ZTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBANaUsjih1JlDCjUIhTQ0X2Xp2VogB7CK+c5qbd/IA7holfCkcDBedrIjPDqWx663uQJnR2D9lM85wl6MiXEOEJBETuiJs9EjXrKBq8twg8v6nQ6FcHTJUfwifYVGy0RU41BVsx/nJubIP6UOSCb90rGTyuJJjOuGI5eKuI+5JHRgNbY1bYwj4CjTPpLj1kEf8aihy5OXdtQ1Yr3omjUYbH7DNfkollgpLSj4CwOxmeU4Mu2CFlqjZmsx+P2uDBd6xXb0wPiY0UbFnd5ffXYRWOjKEanT21U1YUyfad02l2FQz8Ndo46AtjpjNk4BJwiN3eTu4aNJO9TJh0dzGQc3kWX8Wi7952SC4BuU4Jw30wrPd71OjQZVt7LJWo5xSOjguHzlM0STF69OkR3j1oBzsLeoke2/8cEMWUiVhuIgThR4mlHBSArRjp4XFGgCZ0vZLacysHLoiBsWgS/e/HS/ALXnJhB/TJW91ugENSY0HyU8C/SuDeNU/LvpFuUh3L9lbZKb4PjtViaeN8sVUzmCR9h1oGsCGK5cK85KVEnnw0Sh1Ithq54sttTuhM7JBPXN24QYFTUZ3XoQWhGsmRM0Z8TmDRO9akFNVEiZpu/3qDrf8SccWCz2HmjDXtYb5/WrOJ/N/niTTooa3CQxD3OkbNiFbdZ63ebGaib0WyZFZ/hnAgMBAAGjgYUwgYIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU0oNhZdyWpULIGHDZXPZigzcrUpgwCwYDVR0PBAQDAgXgMBMGA1UdJQQMMAoGCCsGAQUFBwMJMBEGCWCGSAGG+EIBAQQEAwIGQDAeBglghkgBhvhCAQ0EERYPeGNhIGNlcnRpZmljYXRlMA0GCSqGSIb3DQEBBQUAA4ICAQB7H3Ipox4oPUva5jWg+D4bf31m5PkdDUp00WhsP2NEELMsVBfH7fqwSXi7ALZ8xYLKIZXXVROVzf1L7U6nIhH87MYBSVJMXYUz3MDPfaVTO2x1Xr8HBulKSrSAn1+/NNCeUlfzBSU4h7cqq2EWSr/4g4LkZnw0RRw70/v4vk8JMIKalyOGc4bM0lfJRIqZ1lqDGeaAgATp23jqa+GuC/xsze37ZXNwqx3SqjlkLCvrci7CQ3G1HKAv+5YoS+2N3PAezp607BMMYbqOIQrC/WKfj0Xz4MdQgWF3ihYqWKAk81oqOzf24HO/1xfyEixhddXHEgMSWOABH03gS8LgkhvFzokyNschFiwh2oOrHjyBmesqDP+naosJH0BfGRdGlfmXJDQx/D2cFxN2IPX+YgDHD3RAEn6Pp/vbNlmcs0oblAHTogEjrMt5hF5ntc7kJ4F+uRuvsE1jelVF5OOsiIA+jXEG40+LRXbNX31N+XpMd8MwIEvlCvGA0ck5Iq0n0MgptsGxZ+MRCh0zglY0+i1YtULyZGxZUDXrnjhJK5+zhFzzEMqxwqai+mSV3wgrB/FFnSsyxvO+6lhszhl0dwiRG3EgKwdH1L+OiENQy3NT8L8+eGeMrTZzmMJ5DFQ45C2dTmv32Yd4u4a5Co0S/7ZmImJZB1WFv5QrUIV0G1Lbbw==</X509Certificate>
                             </DigitalId>
                             <DigitalId>
-<X509SubjectName>EMAILADDRESS=pki@sk.ee, CN=EID-SK 2007 OCSP RESPONDER 2010, OU=OCSP, O=AS Sertifitseerimiskeskus, C=EE</X509SubjectName>
+<X509SubjectName>emailAddress=ocsp@cenditel.gob.ve,CN=solicitud-servidor-ocsp,OU=Desarrollo,O=CENDITEL,L=Merida,ST=Merida,C=Ve</X509SubjectName>
                             </DigitalId>
                         </ServiceDigitalIdentity>
                         <ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
-                        <StatusStartingTime>2016-07-01T00:00:00Z</StatusStartingTime>
+                        <StatusStartingTime>2016-09-22T18:13:00Z</StatusStartingTime>
                         <ServiceSupplyPoints>
-                            <ServiceSupplyPoint>http://ocsp.sk.ee</ServiceSupplyPoint>
+                            <ServiceSupplyPoint>http://acraiz.suscerte.gob.ve/sites/default/files/dpc/DPC_AC_RAIZ_V4.1.pdf</ServiceSupplyPoint>
                         </ServiceSupplyPoints>
                         <ServiceInformationExtensions>
                             <Extension Critical="true">
@@ -732,18 +732,20 @@
                         <ServiceHistoryInstance>
                             <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/Certstatus/OCSP/QC</ServiceTypeIdentifier>
                             <ServiceName>
-<Name xml:lang="en">OCSP, EID-SK 2007 OCSP RESPONDER 2010</Name>
+<Name xml:lang="es">Solicitud-Ocsp</Name>
                             </ServiceName>
                             <ServiceDigitalIdentity>
 <DigitalId>
-    <X509SubjectName>EMAILADDRESS=pki@sk.ee, CN=EID-SK 2007 OCSP RESPONDER 2010, OU=OCSP, O=AS Sertifitseerimiskeskus, C=EE</X509SubjectName>
+    <X509SubjectName>emailAddress=ocsp@cenditel.gob.ve,CN=solicitud-servidor-ocsp,OU=Desarrollo,O=CENDITEL,L=Merida,ST=Merida,C=Ve</X509SubjectName>
 </DigitalId>
+<!-- pendiente por eliminar
 <DigitalId>
     <X509SKI>8E4IM8xH6R+ns7OTlTrwTrz8Cx4=</X509SKI>
 </DigitalId>
+-->
                             </ServiceDigitalIdentity>
                             <ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/undersupervision</ServiceStatus>
-                            <StatusStartingTime>2009-12-01T12:41:30Z</StatusStartingTime>
+                            <StatusStartingTime>2016-09-22T18:13:00Z</StatusStartingTime>
                         </ServiceHistoryInstance>
                     </ServiceHistory>
                 </TSPService>
