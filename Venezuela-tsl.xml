@@ -3749,29 +3749,4 @@ i0eLQ87Iq2Rf1j4lKoRWpFc3DsHbH532ZFhQnwSoO+PlqD122DJcux8ngd1Qkyq+hPpCd/CUFtoW
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>
-    </TrustServiceProviderList>
-<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-83093d40-6bdd-461b-b62e-0a06d17ecb4b"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI="#EE0001"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>emcWjW9Gb9wzUl/a1gSNeg5Fhvhq3QWLKSWgm9bPUto=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-83093d40-6bdd-461b-b62e-0a06d17ecb4b-xades"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>4dbJ18ZrhhXIbpL5zMAoJAmnmUi3MObObnwoO649bjY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-83093d40-6bdd-461b-b62e-0a06d17ecb4b-signature-value">PrKlVxzV+6npWZAgSAFkqu5fE+Az8FNnrOKN7S7XS3wve2B9nGTvcgv+bbDj2siecDMa9+lYls4F
-rru081JYv8OCSHL9nfngXRJZ5icg3ZrpU9+bMHE8OoXnOCofgUfqtmUTPWK0IbCEDpiY6RAECk8B
-6W+pRzpXfeNoyWqdpoNRYHX5jc4NSdCUeTyfvJEjxtB3V+L7h8atoIcjH5fy+XwgpuVIlR9wtQzt
-GbBoptqiVIyJADcR5cXtoHkHa8qUApNX5obrBPD7CLC5gyZGj6IYna4kpSKIk9I28eIyWlOiFkoK
-l+p6+ermm6x+I+zXUpIfa4wS+5FKL3VPkFm3ug==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIDtDCCApygAwIBAgIJAOGr7PilHGMwMA0GCSqGSIb3DQEBBQUAMHExLjAsBgNVBAMTJUVzdG9u
-aWFuIFRydXN0ZWQgTGlzdCBTY2hlbWUgT3BlcmF0b3IxCzAJBgNVBAYTAkVFMTIwMAYDVQQKEylF
-c3RvbmlhbiBUZWNobmljYWwgU3VydmVpbGxhbmNlIEF1dGhvcml0eTAeFw0xMDEwMjkxMzIyNTBa
-Fw0yMDExMDUxMzIyNTBaMHExLjAsBgNVBAMTJUVzdG9uaWFuIFRydXN0ZWQgTGlzdCBTY2hlbWUg
-T3BlcmF0b3IxCzAJBgNVBAYTAkVFMTIwMAYDVQQKEylFc3RvbmlhbiBUZWNobmljYWwgU3VydmVp
-bGxhbmNlIEF1dGhvcml0eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhdQ9c33Y98
-JC0pl34+rg+qXLgdjEQaBM9gpxOpIpeqwrcXi5xbLmh4mk6imennbRaZXgJRqrOkx77B+UsBwn6u
-PgeZenJ1kFGvAOR9aePbgxJ5AggMr4wJXSa03OSGDhptsmMFc86qtnht94mDf1UCn1CNYA7qQHzu
-4MQwqJ2Ist7IIki89VZD5I4Y5AItMKlEjnHAOw/dlMfI8SxE2vvxCIyQu+rhfGPfwotHi0POyKtk
-X9Y+JSqEVqRXNw7B2x+d9mRYUJ8EqDvj5ag9dtgyXLsfJ4HdUJMqvoT6QnfwlBbaFusTm3R8SNVX
-l/8LHDoM5naOSKAOGRSe2OnxAJ8CAwEAAaNPME0wDAYDVR0TBAUwAwIBADALBgNVHQ8EBAMCB4Aw
-HQYDVR0OBBYEFAon+QooAKxPsgZlsTxvK/8synsxMBEGA1UdJQQKMAgGBgQAkTcDADANBgkqhkiG
-9w0BAQUFAAOCAQEACansBzvd2iwBlZg50oueEtUlFyE+do+FmI4apydq2bM3kdeikWGERSbV1EzD
-86j7jpNKEOvlPTkV7fZl+7uCJ3OuCrzHEzuaZnvFPkN7Rmj4P1AGh5UK4UVWJwTceuhzIf4D6+/5
-CNY6U8iEHIqvAmTVOPSKEvxdBv7GKHy6x897icQa8ttHq+xCLmc0+6zpbzSZ5dOmFG3kzJuZPqtq
-a89Lqf7x6IRRKgUd+C+JsKDMjEde/eYnM8yxdVlzEWe6Z0qKVvPTuiCnhTNhaaQM3aiw61RMTes2
-Ik4wSGY75XZjQV5gVszHJBEntktcduGWCuJ24qS2lb1M2/8bE43Fkg==</ds:X509Certificate><ds:X509IssuerSerial><ds:X509IssuerName>O=Estonian Technical Surveillance Authority, C=EE, CN=Estonian Trusted List Scheme Operator</ds:X509IssuerName><ds:X509SerialNumber>16261351432217453360</ds:X509SerialNumber></ds:X509IssuerSerial></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>uF1D1zfdj3wkLSmXfj6uD6pcuB2MRBoEz2CnE6kil6rCtxeLnFsuaHiaTqKZ6edtFpleAlGqs6TH
-vsH5SwHCfq4+B5l6cnWQUa8A5H1p49uDEnkCCAyvjAldJrTc5IYOGm2yYwVzzqq2eG33iYN/VQKf
-UI1gDupAfO7gxDConYiy3sgiSLz1VkPkjhjkAi0wqUSOccA7D92Ux8jxLETa+/EIjJC76uF8Y9/C
-i0eLQ87Iq2Rf1j4lKoRWpFc3DsHbH532ZFhQnwSoO+PlqD122DJcux8ngd1Qkyq+hPpCd/CUFtoW
-6xObdHxI1VeX/wscOgzmdo5IoA4ZFJ7Y6fEAnw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Target="#xmldsig-83093d40-6bdd-461b-b62e-0a06d17ecb4b" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><xades:SignedProperties Id="xmldsig-83093d40-6bdd-461b-b62e-0a06d17ecb4b-xades"><xades:SignedSignatureProperties><xades:SigningTime>2016-08-18T11:09:05Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vWUAiajqPKb4O6Z9IbUz2Jbw85c/Y13Q0xm/QNGFJgo=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>O=Estonian Technical Surveillance Authority, C=EE, CN=Estonian Trusted List Scheme Operator</ds:X509IssuerName><ds:X509SerialNumber>16261351432217453360</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></TrustServiceStatusList>
+</TrustServiceStatusList>
