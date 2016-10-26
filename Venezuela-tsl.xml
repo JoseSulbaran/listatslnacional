@@ -660,52 +660,6 @@
                     <ServiceInformation>
                         <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/Certstatus/OCSP/QC</ServiceTypeIdentifier>
                         <ServiceName>
-                            <Name xml:lang="en">EID-SK 2007 OCSP RESPONDER</Name>
-                        </ServiceName>
-                        <ServiceDigitalIdentity>
-                            <DigitalId>
-<X509Certificate>MIIDOjCCAiKgAwIBAgIERh9YjTANBgkqhkiG9w0BAQUFADBqMQswCQYDVQQGEwJFRTEiMCAGA1UEChMZQVMgU2VydGlmaXRzZWVyaW1pc2tlc2t1czEhMB8GA1UECxMYU2VydGlmaXRzZWVyaW1pc3RlZW51c2VkMRQwEgYDVQQDEwtFSUQtU0sgMjAwNzAeFw0wNzA0MTMxMDE2NDVaFw0xMDA0MTcwOTE2NDVaMH8xCzAJBgNVBAYTAkVFMSIwIAYDVQQKExlBUyBTZXJ0aWZpdHNlZXJpbWlza2Vza3VzMQ0wCwYDVQQLEwRPQ1NQMSMwIQYDVQQDExpFSUQtU0sgMjAwNyBPQ1NQIFJFU1BPTkRFUjEYMBYGCSqGSIb3DQEJARYJcGtpQHNrLmVlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD+Z0LZ6TjBzx4x+UshExea1nIMsS86xAN6u/amLV8XQE+vodEld8iqtRsrvFiQ74isYOys1JKqiq+1ryic6j2FnMDZueLiXZl51QWyuhWu+aT4BwEaA8rUxMgKJ94zWksrqSf9cjoaap+9DlDhEsrDa+/89CPl2rlZIB5lqeHLQQIDAQABo1cwVTATBgNVHSUEDDAKBggrBgEFBQcDCTAfBgNVHSMEGDAWgBQcB/Scv6QlbLO0niIfH5RIG1h6jTAdBgNVHQ4EFgQUMsMzikmZqG6CcdgnD5VAXfQeCrgwDQYJKoZIhvcNAQEFBQADggEBAH0eUFQ7LznD4R8XWj/6rsNhe0fme3Os7cyZGNkx1EWenkgdMHCV/gN3SyIfrjW7sEJM62sS1X+8Ke2J+6b5YH0TcSmSDqYICn6zVbsq5MLtHW5wmwKucBJ5xFgoC3NNCEp8wVrzuQmm6xCvFWQVQ6uNhjuxCQxcDKgLwpL7iEcBEMmTTKkvqEtqrvu/LZ/a2OHytkEoXGheN8KlEcIv7AJBPVL8OCv4UpgyUOrVnmIeX2F/KG3wmo4U3kVupuF9kaPrOeOGYG3ZzK2HNwfRNkZ/Ej7AuPazkumAHdsJBbpTdBYq8d8er8XZKai24Ra/e5eEmcMye+O8IpxAA4ExY+I=</X509Certificate>
-                            </DigitalId>
-                            <DigitalId>
-<X509SubjectName>EMAILADDRESS=pki@sk.ee, CN=EID-SK 2007 OCSP RESPONDER, OU=OCSP, O=AS Sertifitseerimiskeskus, C=EE</X509SubjectName>
-                            </DigitalId>
-                        </ServiceDigitalIdentity>
-                        <ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
-                        <StatusStartingTime>2016-07-01T00:00:00Z</StatusStartingTime>
-                        <ServiceSupplyPoints>
-                            <ServiceSupplyPoint>http://ocsp.sk.ee</ServiceSupplyPoint>
-                        </ServiceSupplyPoints>
-                        <ServiceInformationExtensions>
-                            <Extension Critical="true">
-<AdditionalServiceInformation>
-    <URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
-</AdditionalServiceInformation>
-                            </Extension>
-                        </ServiceInformationExtensions>
-                    </ServiceInformation>
-                    <ServiceHistory>
-                        <ServiceHistoryInstance>
-                            <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/Certstatus/OCSP/QC</ServiceTypeIdentifier>
-                            <ServiceName>
-<Name xml:lang="en">OCSP, EID-SK 2007 OCSP RESPONDER</Name>
-                            </ServiceName>
-                            <ServiceDigitalIdentity>
-<DigitalId>
-    <X509SubjectName>EMAILADDRESS=pki@sk.ee, CN=EID-SK 2007 OCSP RESPONDER, OU=OCSP, O=AS Sertifitseerimiskeskus, C=EE</X509SubjectName>
-</DigitalId>
-<DigitalId>
-    <X509SKI>MsMzikmZqG6CcdgnD5VAXfQeCrg=</X509SKI>
-</DigitalId>
-                            </ServiceDigitalIdentity>
-                            <ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/undersupervision</ServiceStatus>
-                            <StatusStartingTime>2007-04-13T10:16:45Z</StatusStartingTime>
-                        </ServiceHistoryInstance>
-                    </ServiceHistory>
-                </TSPService>
-                <TSPService>
-                    <ServiceInformation>
-                        <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/Certstatus/OCSP/QC</ServiceTypeIdentifier>
-                        <ServiceName>
                             <Name xml:lang="es">Solicitud-Ocsp</Name>
                         </ServiceName>
                         <ServiceDigitalIdentity>
