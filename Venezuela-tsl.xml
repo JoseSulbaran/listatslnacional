@@ -35,8 +35,7 @@
         </SchemeTypeCommunityRules>
         <SchemeTerritory>VE</SchemeTerritory>
         <PolicyOrLegalNotice>
-            <TSLLegalNotice xml:lang="en">The applicable legal framework for the present trusted list is Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.</TSLLegalNotice>
-            <TSLLegalNotice xml:lang="et">Käesoleva usaldusnimekirja suhtes kohaldatav õigusraamistik on Euroopa Parlamendi ja nõukogu 23. juuli 2014. aasta määrus (EL) nr 910/2014 e-identimise ja e-tehingute jaoks vajalike usaldusteenuste kohta siseturul ja millega tunnistatakse kehtetuks direktiiv 1999/93/EÜ.</TSLLegalNotice>
+            <TSLLegalNotice xml:lang="es">El Centro Nacional de Desarrollo e Investigación en Tecnologías Libres (CENDITEL) surge como una iniciativa para impulsar los procesos necesarios que permitan transitar el camino hacia el verdadero rol que deben cumplir la ciencia, la tecnología y la innovación para alcanzar el desarrollo económico, social y político de la nación.</TSLLegalNotice>
         </PolicyOrLegalNotice>
         <HistoricalInformationPeriod>65535</HistoricalInformationPeriod>
 	<!-- falta agregar el certificado firmado de la lista-->
